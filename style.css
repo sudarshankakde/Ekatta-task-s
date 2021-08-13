@@ -1,0 +1,41 @@
+.my-con{
+    border:thin solid red;
+    background-color: 	#A0A0A0;
+
+}
+.my-row{
+    border:thin solid red;
+
+}
+.my-col{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: small;
+    text-align: justify;
+    border: thin solid red;
+}
+.main-txt{
+padding-top: 20px;
+font-weight: bold;
+font-size: 20px;
+text-decoration: underline;
+font-family: 'Times New Roman', Times, serif;
+}
+.sub-txt{
+    font-weight: lighter;
+}
+/* space between contanier's */
+.space-btw-con{
+   border: thin solid transparent;
+   
+}
+/* second container*/
+.my-con-sec{
+ text-align: left;
+}
+/* fifth container */
+#btn{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
