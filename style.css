@@ -1,10 +1,10 @@
 .my-con{
-    border:thin solid red;
+    border:thin solid transparent;
     background-color: 	#A0A0A0;
 
 }
 .my-row{
-    border:thin solid red;
+    border:thin solid transparent;
 
 }
 .my-col{
@@ -12,7 +12,7 @@
     padding-bottom: 30px;
     font-size: small;
     text-align: justify;
-    border: thin solid red;
+    /* border: thin solid red; */
 }
 .main-txt{
 padding-top: 20px;
@@ -34,8 +34,8 @@ font-family: 'Times New Roman', Times, serif;
  text-align: left;
 }
 /* fifth container */
-#btn{
+/* #btn{
     padding-left: 10px;
     padding-right: 10px;
     border-radius: 10px;
-}
+} */
